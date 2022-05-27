@@ -33,7 +33,7 @@ const Login = () => {
 		<div className={styles.login_container}>
 			<div className={styles.login_form_container}>
 				<div className={styles.left}>
-					<form className={styles.form_container} onSubmit={handleSubmit}>
+					<form className={styles.form_} onSubmit={handleSubmit}>
 						<h1>Login to Your Account</h1>
 						<input
 							type="email"
