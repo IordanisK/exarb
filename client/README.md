@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+# Examensarbete 2022
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with React/Node and MongoDB. The project revolves around a landing page of an example of how a restaurant page can be, but also include a google-search page from where you can browse directly in the same application with the help of a google-search API. 
 
-## Available Scripts
+## Get Started
 
-In the project directory, you can run:
+In order to run the project, you might need to update the node-modules:
+
+Step 1: Open a terminal / CMD
+Step 2: Type "rm -rf node_modules/" + enter 
+Step 3: Type "npm update" + enter
+Step 4: Type "npm install" + enter, for necessary dependencies
+Step 5: Type "npm start" + enter(within client/server folder)
 
 ### `npm start`
 
