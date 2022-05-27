@@ -6,11 +6,11 @@ This project was created with React/Node and MongoDB. The project revolves aroun
 
 In order to run the project, you might need to update the node-modules:
 
-Step 1: Open a terminal / CMD
-Step 2: Type "rm -rf node_modules/" + enter 
-Step 3: Type "npm update" + enter
-Step 4: Type "npm install" + enter, for necessary dependencies
-Step 5: Type "npm start" + enter(within client/server folder)
+#Step 1: Open a terminal / CMD
+#Step 2: Type "rm -rf node_modules/" + enter 
+#Step 3: Type "npm update" + enter
+#Step 4: Type "npm install" + enter, for necessary dependencies
+#Step 5: Type "npm start" + enter(within client/server folder)
 
 ### `npm start`
 
